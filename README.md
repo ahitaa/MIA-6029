@@ -1,2 +1,2 @@
 # MIA-6029
-Curso del MIA de la PUCV.
+Material utilizado durante el curso para interactuar tanto con bases de datos en línea como realizar análisis de datos meteorológicos.
